@@ -4,6 +4,7 @@ public class hanoun {
     public static void main(String[] args) {
 
         Scanner in = new Scanner(System.in);
+        Sestem.out.println("plese inter the string")
         String s = in.nextLine();
         if (isvaild(s)) {
 
